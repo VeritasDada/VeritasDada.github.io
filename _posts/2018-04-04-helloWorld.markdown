@@ -1,27 +1,14 @@
 ---
 layout:       post
-title:        "饿了么的 PWA 升级实践"
-subtitle:     "Upgrading Ele.me to Progressive Web App"
-date:         2017-07-12 12:00:00
-author:       "Hux"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
-header-mask:  0.3
-catalog:      true
-multilingual: true
+title:        "Hello 2018"
+subtitle:     "Hello World,Hello Blog"
+date:         2018-04-04 17:17:00
+author:       "Hxy"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
 tags:
-    - 前端开发
-    - JavaScript
-    - PWA
+    - 生活
 ---
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
-
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
+##前言
+在忙忙碌碌折腾了大半个学期后，终于决定做点正事，于是就准备在GitHub上搭一个个人博客，嗯没错就是这个。看了相关教程之后，一步一步做下来倒还是挺容易的。
