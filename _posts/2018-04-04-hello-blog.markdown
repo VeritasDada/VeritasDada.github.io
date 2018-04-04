@@ -1,4 +1,4 @@
-﻿---
+---
 layout:       post
 title:        "Hello 2018"
 subtitle:     "Hello World,Hello Blog"
