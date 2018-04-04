@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Site settings
 
 title: Elizabethu Blog
@@ -19,10 +20,22 @@ keyword: "达达, Elizabethu达达, 达达的博客, Elizabethu Blog, 博客，�
 
 
 
+=======
+# Site settings
+title: Elizabethu Blog
+SEOTitle: 达达的博客 | Elizabethu Blog
+header-img: img/home-bg.jpg
+email: Elizabethu@163.com
+description: "努力学习的代码小白 | 达达，Algorithm & Web Lover | 这里是达达的个人博客，与你一起发现更大的世界。"
+keyword: "达达, Elizabethu达达, 达达的博客, Elizabethu Blog, 博客，算法，代码"
+#url: "https://huangxuan.me"              # your host, for absolute URL
+#baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+>>>>>>> dc8eb4209b32251993e444c06f9f8c34aa00fcfd
 
 
 
 # SNS settings
+<<<<<<< HEAD
 
 #RSS: false
 
@@ -34,6 +47,13 @@ keyword: "达达, Elizabethu达达, 达达的博客, Elizabethu Blog, 博客，�
 
 #twitter_username:   huxpro
 
+=======
+#RSS: false
+#weibo_username:     huxpro
+#zhihu_username:     huxpro
+#github_username:    huxpro
+#twitter_username:   huxpro
+>>>>>>> dc8eb4209b32251993e444c06f9f8c34aa00fcfd
 #facebook_username:  huxpro
 
 # linkedin_username:  firstname-lastname-idxxxx
@@ -135,9 +155,13 @@ ga_domain: huangxuan.me
 # Sidebar settings
 
 sidebar: true                           # whether or not using Sidebar.
+<<<<<<< HEAD
 
 sidebar-about-description: "写写代码，学学算法，<br>世界这么大，我想去看看，嘻嘻嘻"
 
+=======
+sidebar-about-description: "写写代码，学学算法，<br>世界这么大，我想去看看，嘻嘻嘻"
+>>>>>>> dc8eb4209b32251993e444c06f9f8c34aa00fcfd
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -171,16 +195,22 @@ service-worker: true
 
 
 # Friends
+<<<<<<< HEAD
 
 #friends: [
 
     #{
 
+=======
+#friends: [
+    #{
+>>>>>>> dc8eb4209b32251993e444c06f9f8c34aa00fcfd
     #     title: "Su",
 
     #     href: "http://su.gallery/"
 
     # },{
+<<<<<<< HEAD
 
         #title: "乱序",
 
@@ -195,3 +225,12 @@ service-worker: true
     #}
 
 #]
+=======
+        #title: "乱序",
+        #href: "http://mida.re/"
+    #},{
+        #title: "前端外刊评论",
+        #href: "http://qianduan.guru/"
+    #}
+#]
+>>>>>>> dc8eb4209b32251993e444c06f9f8c34aa00fcfd
